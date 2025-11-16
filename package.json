@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Number.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://poovizhimurali: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@github.com/poovizhimurali/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/poovizhimurali/test/issues"
+  },
+  "homepage": "https://github.com/poovizhimurali/test#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.8.1"
+  },
+  "dependencies": {
+    "playwright": "^1.56.1"
+  }
+}
